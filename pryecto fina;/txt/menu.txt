@@ -1,8 +1,0 @@
-#No hace nada esto 
-----|MENU|----
-
-1|Provedor
-2|Compra
-3|Deuda cuotas
-4|Consulta generales
-5|Salir
