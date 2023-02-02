@@ -1,0 +1,2 @@
+1|true|carro|12 marzo 2021|100|4|100
+1|true|moto|12 enero 2019|100|6|100
