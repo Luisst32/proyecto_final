@@ -1,2 +1,0 @@
-1|andy|calle 12 de octubre |15000|true|098789433
-
